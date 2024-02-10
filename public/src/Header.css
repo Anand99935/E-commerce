@@ -1,0 +1,55 @@
+.header1{
+    background-color:rgb(230, 164, 180);
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    top: 0px;
+    width: 100%;
+    position:sticky;
+    z-index: 999;
+        
+}
+.header3 a{
+    color: black;
+    margin-left: 180px;
+    text-decoration: none;
+    font-style: bold;
+    
+}
+.header3 {
+    margin-top: -100px;
+    margin-left: 220px;
+    padding: 0%;
+    font-family: fantasy;
+    
+}
+.header1 img{
+  margin-left: 50px;
+  margin-top: 0px;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  
+  
+}
+.header3 a{
+    padding-right: 50px;
+    margin-left: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header3 button{
+     color: rgb(230, 164, 180);
+     border: none;
+     background-color: black;
+     border-radius: 10%;
+}
+.header3 button:hover{
+    color: black;
+    background-color: aliceblue;
+}
+.header3 h1:hover{
+    color:white;
+}
+.header3 a:hover{
+    color:white;
+}

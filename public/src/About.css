@@ -1,0 +1,13 @@
+.about{
+    display: flex;
+    width: 100%;
+}
+.about1{
+    width: 50%;
+}
+.about2{
+    width: 50%;
+    font-style: bold;
+    margin-top: 70px; 
+    margin-left: 30px;   
+}
